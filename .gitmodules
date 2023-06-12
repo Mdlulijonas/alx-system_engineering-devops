@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Mdlulijonas/alx-system_engineering-devops
+	branch = master
